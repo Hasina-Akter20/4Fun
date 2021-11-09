@@ -1,0 +1,35 @@
+.icon-dev {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: right;
+}
+
+.about-icon {
+  width: 60px;
+  text-align: left;
+  padding-bottom: 20px;
+}
+.icon-dev p {
+  padding-right: 40px;
+}
+
+.about-top {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+}
+.about-top small {
+  color: #6347f9;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.about-top h1 {
+  font-weight: 800;
+}
+
+.down {
+  justify-content: flex-end;
+}

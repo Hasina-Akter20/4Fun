@@ -1,0 +1,37 @@
+/* search button design  */
+.location {
+  position: absolute;
+  width: 35px;
+  margin-top: 10px;
+  margin-left: 7px;
+}
+.search-box {
+  width: 170px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 0px;
+  font-weight: 500;
+}
+.top-banner-button {
+  border: none;
+  color: white;
+  background-color: #6347f9;
+  width: 100px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+/* top banner design  */
+
+.top-banner-dev {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+}
+
+.top-banner-title {
+  font-size: 50px;
+  font-weight: 700;
+  color: #6347f9;
+}

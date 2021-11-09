@@ -1,3 +1,20 @@
+Welcome to 4FunTravels Website. This is a tourism website where you find lots of your desired services.
+
+Here is the live site: (https://fun-6f84f.web.app/)
+
+In this Website you can find:
+
+- You can see some of demo beaches.
+- Here you can find our services.
+- You can visit and see the details of our services.
+- You can know what we serve.
+- You can log in your account to see your added service
+- For more updates you can contact with us
+
+We are customer friendly , you can trust us. Since 2012 we serve the people all over the world.
+
+You are aways welcome in our company. Thanks in advance.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

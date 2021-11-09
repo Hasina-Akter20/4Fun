@@ -1,0 +1,18 @@
+.bottom-margin {
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 688px) {
+  .banner-slide {
+    height: 100%;
+  }
+  .bottom-margin {
+    margin-bottom: 5px;
+  }
+  .slide-item h1 {
+    font-size: medium;
+    text-shadow: 1px 1px 5px gray;
+  }
+  .slide-item p {
+    font-size: 11px;
+  }
+}
