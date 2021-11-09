@@ -6,7 +6,7 @@ import Service from "../Service/Service";
 const Services = () => {
   const [services, setService] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/services")
+    fetch("https://blooming-badlands-12704.herokuapp.com/services")
       .then((response) => response.json())
       .then((data) => setService(data));
   }, []);
@@ -17,7 +17,7 @@ const Services = () => {
 
       <Row xs={1} md={3} className="g-5">
         {services.map((service) => (
-          <Service key={service._id} service={service}></Service> 
+          <Service key={service._id} service={service}></Service>
         ))}
       </Row>
 

@@ -9,7 +9,7 @@ const ServiceDetails = () => {
 
   // load single data
   useEffect(() => {
-    fetch(`http://localhost:5000/services/${_id}`)
+    fetch(`https://blooming-badlands-12704.herokuapp.com/services/${_id}`)
       .then((res) => res.json())
       .then((data) => setServiceDetails(data));
   }, []);
